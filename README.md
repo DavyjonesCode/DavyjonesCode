@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My name is David
+im currently enrolled in DB high school.
+
+so far I have learned the basics of Python, and I am now learing React native!
+im exited to learn more coding languages and making programs
