@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My name is David
-im currently enrolled in DB high school.
+im currently doing home school.
 
-so far I have learned the basics of Python, and I am now learing React native!
+so far I have learned the basics of Python, and React native, im most comfortabel in Java. Im curently takeing a course on C
 im exited to learn more coding languages and making programs
