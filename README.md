@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My name is David
-im currently doing home school.
+im currently studying computer engeneering at University of Tennessee Knoxville.
 
-so far I have learned the basics of Python, and React native, im most comfortabel in Java. Im curently takeing a course on C
-im exited to learn more coding languages and making programs
+I'm a softmore and have extensive experince in C++, I have worked in Java, JavaScript, Python, C, and React Native.
+
