@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My name is David
-im currently studying computer engeneering at University of Tennessee Knoxville.
+im currently studying computer engineering at University of Tennessee Knoxville.
 
 I'm a softmore and have extensive experince in C++, I have worked in Java, JavaScript, Python, C, and React Native.
 
